@@ -10882,3 +10882,8 @@ a.text-dark:focus {
   }
 }
 
+.wishlist_btn{
+    border-radius:50%;
+    color: red;
+}
+

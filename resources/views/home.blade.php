@@ -4,6 +4,7 @@
     <title>Arctic Computers -Home</title>
 @stop
 <!--================ Start Header Menu Area =================-->
+
 @include('customer.partials._navbar')
 <!--================ End Header Menu Area =================-->
 
@@ -23,7 +24,7 @@
 
                         <h2>Arctic Computer Shop</h2>
                         <p>The place to come when you need the best bargains on computers, digital cameras, fax machines, laptops, projectors, and related accessories.</p>
-                        <a class="button button-hero" href="/notarctic/public/products">Browse Now</a>
+                        <a class="button button-hero" href="/products">Browse Now</a>
                     </div>
                 </div>
             </div>

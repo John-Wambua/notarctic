@@ -19,7 +19,9 @@ Route::get('/description/{id}','ProductsController@productDescription');
 
 Route::get('/categories/{category}','ProductsController@show');
 
-//Route::get('products/{cat_id}','ProductsController@productDescription');
+Route::get('/wishlist/{id}','ProductsController@showWishlist');
 
-//Route::resource('/products','ProductsController');
+Route::post('/wishlist','ProductsController@addToWishlist');
+
+
 
