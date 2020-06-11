@@ -116,6 +116,6 @@ $(function() {
 
 });
 
-                    document.querySelector('.wishlist_btn').classList.toggle('wishlist_btn');
+                    document.querySelector('.wishlist_btn').style.color='blue';
 
 

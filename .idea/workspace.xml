@@ -2,26 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebbfbff0-0ba8-48cf-af37-5d5bdd865c7f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/wishlist.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ProductsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ProductsController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Product.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Product.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Wishlist.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Wishlist.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/factories/UserFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/UserFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/customer/partials/_navbar.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/customer/partials/_navbar.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/customer/partials/category_section.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/customer/partials/category_section.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/customer/partials/product_display_area.blade.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/customer/partials/single_products_area.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/customer/partials/single_products_area.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/customer/partials/top_items.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/customer/partials/top_items.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/customer/partials/trending_products.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/customer/partials/trending_products.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/specific_category.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/specific_category.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/test.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/test.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/view_single_product.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/view_single_product.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -203,7 +191,9 @@
       <workItem from="1590685553716" duration="12066000" />
       <workItem from="1591192657005" duration="17748000" />
       <workItem from="1591288536927" duration="18322000" />
-      <workItem from="1591343344704" duration="1156000" />
+      <workItem from="1591343344704" duration="2516000" />
+      <workItem from="1591724081092" duration="1161000" />
+      <workItem from="1591882354340" duration="4832000" />
     </task>
     <task id="LOCAL-00001" summary="Modified UI&#10;Displayed products by category">
       <created>1588931998320</created>
@@ -251,10 +241,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1589185641483" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1591343473754">
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1591882355306">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1591343473754" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1591882355306" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1591288667975">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

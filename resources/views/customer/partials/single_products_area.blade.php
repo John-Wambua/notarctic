@@ -39,7 +39,7 @@
                             {{ csrf_field() }}
                             <input type="hidden" name="product_id" value="{{$product->id}}"/>
                             <input type="hidden" name="user_id" value="5"/>
-                            <button type="submit" style="border-radius:50%; color: red" class="icon_btn">
+                            <button type="submit" style="border-radius:50%; color: red" class="icon_btn wishlist_btn">
                                 <i class="fas fa-heart"></i>
                             </button>
 

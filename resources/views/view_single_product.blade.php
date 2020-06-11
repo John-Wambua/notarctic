@@ -1,4 +1,9 @@
+@extends('layouts.header')
 @include('layouts.header')
+@section('title')
+
+    <title>Single</title>
+@stop
 <!--================ Start Header Menu Area =================-->
 @include('customer.partials._navbar')
 <!--================ End Header Menu Area =================-->

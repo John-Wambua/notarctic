@@ -12,8 +12,9 @@ class ProductsController extends Controller
     //
 
     public function homePageProducts(){
-        $products=Product::all();
+        $products=Product::all()->random(4);
         return view('home',compact('products'));
+
     }
 
     public function displayByCategory(){

@@ -49,12 +49,6 @@
     @include('customer.partials.best_selling')
     <!-- ================ Best Selling item  carousel end ================= -->
 
-    <!-- ================ Blog section start ================= -->
-    <!-- ================ Blog section end ================= -->
-
-    <!-- ================ Subscribe section start ================= -->
-    <!-- ================ Subscribe section end ================= -->
-
 
 </main>
 
